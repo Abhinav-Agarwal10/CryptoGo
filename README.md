@@ -12,10 +12,10 @@ An API based cryptocurrency tracker app using Kotlin which aloows users to track
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/1s.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/1s.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/2s.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/2s.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/3s.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/3s.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/4s.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/CryptoGo/blob/master/4s.jpg" width=300 height=600>
